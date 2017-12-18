@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildLog>
+  <author>Jim Fawcett</author>
+  <TestElement>
+    <TestName>test_2</TestName>
+    <Status>Build Success</Status>
+    <ErrorMessage></ErrorMessage>
+  </TestElement>
+  <TestElement>
+    <TestName>test_3</TestName>
+    <Status>Build Success</Status>
+    <ErrorMessage></ErrorMessage>
+  </TestElement>
+</BuildLog>

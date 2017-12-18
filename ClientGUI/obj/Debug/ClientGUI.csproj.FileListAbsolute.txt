@@ -1,0 +1,182 @@
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\CommServices.exe
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\ICommService.exe
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\XMLManager.exe
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\CommServices.pdb
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\CommServices.exe.config
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\ICommService.pdb
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\ICommService.exe.config
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\XMLManager.pdb
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\bin\Debug\XMLManager.exe.config
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\MainWindow.g.cs
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\ViewFile.g.cs
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\App.g.cs
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.cache
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.lref
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\MainWindow.baml
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\ViewFile.baml
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\ClientGUI.g.resources
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\adars\source\repos\SmaProject4\ClientGUI\obj\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\MainWindow.g.cs
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ViewFile.g.cs
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\App.g.cs
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.cache
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.lref
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\MainWindow.baml
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ViewFile.baml
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.g.resources
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\MainWindow.g.cs
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ViewFile.g.cs
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\App.g.cs
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.cache
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.lref
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\MainWindow.baml
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ViewFile.baml
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.g.resources
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\MainWindow.g.cs
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ViewFile.g.cs
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\App.g.cs
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.cache
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.lref
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\MainWindow.baml
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ViewFile.baml
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.g.resources
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ClientGUI\obj\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\MainWindow.g.cs
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\ViewFile.g.cs
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\App.g.cs
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.cache
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.lref
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\MainWindow.baml
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\ViewFile.baml
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.g.resources
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\MainWindow.g.cs
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\ViewFile.g.cs
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\App.g.cs
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.cache
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.lref
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\MainWindow.baml
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\ViewFile.baml
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.g.resources
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ClientGUI\obj\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\MainWindow.g.cs
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\App.g.cs
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.cache
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.lref
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\MainWindow.baml
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\ClientGUI.g.resources
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\ClientGUI.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\PopUpText.g.cs
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ClientGUI\obj\Debug\PopUpText.baml

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildLog>
+  <author>Jim Fawcett</author>
+  <TestElement>
+    <TestName>test_4</TestName>
+    <Status>Build Failed</Status>
+    <ErrorMessage>tc4.cs(19,21): error CS0020: Division by constant zero
+</ErrorMessage>
+  </TestElement>
+</BuildLog>

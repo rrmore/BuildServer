@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TestRequest>
+  <author>Jim Fawcett</author>
+  <tests>
+    <TestElement>
+      <testName>test_1</testName>
+      <testDriver>td1.dll</testDriver>
+      <testCodes />
+    </TestElement>
+    <TestElement>
+      <testName>test_2</testName>
+      <testDriver>td2.dll</testDriver>
+      <testCodes />
+    </TestElement>
+  </tests>
+</TestRequest>

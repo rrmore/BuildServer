@@ -1,0 +1,42 @@
+C:\Users\adars\source\repos\SmaProject4\XMLManager\bin\Debug\XMLManager.exe.config
+C:\Users\adars\source\repos\SmaProject4\XMLManager\bin\Debug\XMLManager.exe
+C:\Users\adars\source\repos\SmaProject4\XMLManager\bin\Debug\XMLManager.pdb
+C:\Users\adars\source\repos\SmaProject4\XMLManager\obj\Debug\XMLManager.csproj.CoreCompileInputs.cache
+C:\Users\adars\source\repos\SmaProject4\XMLManager\obj\Debug\XMLManager.exe
+C:\Users\adars\source\repos\SmaProject4\XMLManager\obj\Debug\XMLManager.pdb
+C:\Users\adars\source\repos\SmaProject4\XMLManager\obj\Debug\XMLManager.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\XMLManager\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\XMLManager\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\XMLManager\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\XMLManager\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\XMLManager\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\XMLManager\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\XMLManager\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\XMLManager\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\XMLManager\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\XMLManager\obj\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\XMLManager\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\XMLManager\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\XMLManager\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\XMLManager\obj\Debug\XMLManager.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\XMLManager\obj\Debug\XMLManager.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\XMLManager\obj\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\XMLManager\obj\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\XMLManager\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\XMLManager\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\XMLManager\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\XMLManager\obj\Debug\XMLManager.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\XMLManager\obj\Debug\XMLManager.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\XMLManager\obj\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\XMLManager\obj\Debug\XMLManager.pdb

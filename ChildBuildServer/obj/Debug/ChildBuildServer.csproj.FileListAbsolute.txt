@@ -1,0 +1,112 @@
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.exe.config
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.exe
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.pdb
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\CommServices.exe
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\ICommService.exe
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.exe
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\CommServices.pdb
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\CommServices.exe.config
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\ICommService.pdb
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\ICommService.exe.config
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.pdb
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.exe.config
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.csprojResolveAssemblyReference.cache
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.csproj.CoreCompileInputs.cache
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.exe
+C:\Users\adars\source\repos\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.exe.config
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.exe.config
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\Assignment 5\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.exe.config
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\New folder\v2\SmaProject4\SmaProject4\ChildBuildServer\obj\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ChildBuildServer.exe.config
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\New folder\v2\Project4\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ChildBuildServer.exe.config
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\NewFolder\v2\Project4\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\ChildBuildServer.exe.config
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\ChildBuildServer.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\CommServices.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\ICommService.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\XMLManager.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\CommServices.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\CommServices.exe.config
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\ICommService.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\ICommService.exe.config
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\XMLManager.pdb
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\bin\Debug\XMLManager.exe.config
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.csprojResolveAssemblyReference.cache
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.csproj.CoreCompileInputs.cache
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.exe
+C:\Users\futzm\Desktop\Project4_Rohit\Project4\ChildBuildServer\obj\Debug\ChildBuildServer.pdb

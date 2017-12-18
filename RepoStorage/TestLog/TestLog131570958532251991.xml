@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestLog>
+  <author>Jim Fawcett</author>
+  <TestElement>
+    <TestName>test_2</TestName>
+    <Status>Test Success</Status>
+    <ErrorMessage></ErrorMessage>
+  </TestElement>
+  <TestElement>
+    <TestName>test_3</TestName>
+    <Status>Test Failed</Status>
+    <ErrorMessage>Attempted to divide by zero.</ErrorMessage>
+  </TestElement>
+</TestLog>

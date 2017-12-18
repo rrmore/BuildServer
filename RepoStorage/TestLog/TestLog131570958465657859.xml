@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestLog>
+  <author>Jim Fawcett</author>
+  <TestElement>
+    <TestName>test1</TestName>
+    <Status>Test Success</Status>
+    <ErrorMessage></ErrorMessage>
+  </TestElement>
+</TestLog>
